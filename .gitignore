@@ -1,1 +1,13 @@
+
+# Ignore Testing Dir
 /testing/
+
+# Emacs backup files
+*~
+\#*\#
+
+# Emacs auto-save files
+.#*
+
+# Emacs lock files
+.#*
